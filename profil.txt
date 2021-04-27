@@ -1,10 +1,10 @@
 Creativesky.id didirkan pada awal tahun 2021 oleh Mas Rijal Hamsar (Designer dan Pengembang web)
 untuk memberikan pelayanan digital kepada seluruh masyarakt Kota Ternate
-Maupun nasional pada bidang Teknologi Informasi dan Design. Komitmen kamu adalah
+Maupun nasional pada bidang Teknologi Informasi dan Design. Komitmen kami adalah
 adalah memberikan pelayanan yang berkelas dan berkualitas dengan harga 
 yang kompetitif dan relatif terjangkau.
 
-Walaupun terbilang baru memulai Creativesky.id telah berpengalaman melayani
+Walaupun terbilang baru, Creativesky.id telah berpengalaman melayani
 klien lokal maupun nasional. Beberapa projek yang telah kami lakukan adalah
 pembuatan website perusahaan, website sekolah, Website Weeding maupun 
 Website undangan lainnya. Selain dalam bidang
@@ -14,3 +14,6 @@ Logo, Design feed dan produk design lainnya.
 Kami terus mengembangkan kemampuan kami dalam menghasilkan 
 karya yang luar biasa dan selalu memunculkan ide-ide baru
 demi kepuasan pelanggan.
+
+
+biru: #025C90
